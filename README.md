@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Principal Enterprise/research Fellow at the University of Southampton
+
+
 - 🔭 I’m currently working on @SPYDERISK
+-  👯 I’m looking to collaborate on projects in risk assessment, information modelling, data science
